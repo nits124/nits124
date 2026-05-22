@@ -76,3 +76,33 @@ Topics range from web development concepts to things I'm actively learning and b
 </p>
 
 ---
+
+
+
+---
+
+### 🗄️ Databases
+
+| MongoDB | MySQL | PostgreSQL |
+|--------|------|------------|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="60"/> | <img src="https://skillicons.dev/icons?i=mysql" width="60"/> | <img src="https://skillicons.dev/icons?i=postgres" width="60"/> |
+
+---
+
+### 🧰 Tools & Platforms
+
+| Git | GitHub | VS Code | Postman | Linux |
+|-----|--------|---------|---------|-------|
+| <img src="https://skillicons.dev/icons?i=git" width="60"/> | <img src="https://skillicons.dev/icons?i=github" width="60"/> | <img src="https://skillicons.dev/icons?i=vscode" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> | <img src="https://skillicons.dev/icons?i=linux" width="60"/> |
+
+---
+
+## 📁 Projects
+
+| S. No. | Project | Tech Stack | Repo | Live |
+|-------|--------|------------|------|------|
+| 1 | Dynamic Weather Dashboard | HTML, CSS, JavaScript, OpenWeather API | [GitHub](https://github.com/yourusername/weather-app) | [Live](https://yourliveurl.com) |
+| 2 | Personal Portfolio Website | HTML, CSS, Tailwind CSS, JavaScript | [GitHub](https://github.com/yourusername/portfolio) | [Live](https://yourportfolio.com) |
+| 3 | Quiz Game | HTML, CSS, JavaScript | [GitHub](https://github.com/yourusername/quiz-game) | [Live](https://yourquizlive.com) |
+
+---
