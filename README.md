@@ -76,9 +76,20 @@ Topics range from web development concepts to things I'm actively learning and b
 </p>
 
 ---
+## 🛠️ Technical Skills
 
+### 💻 Languages
 
+| JavaScript | C++ | HTML5 | CSS3 | SQL |
+|------------|-----|-------|------|-----|
+| <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=cpp" width="50"/> | <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> |
 
+---
+### ⚙️ Frameworks & Libraries
+
+| Node.js | Express | React | Bootstrap | Tailwind |
+|--------|--------|-------|-----------|----------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> | <img src="https://skillicons.dev/icons?i=express" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> |
 ---
 
 ### 🗄️ Databases
