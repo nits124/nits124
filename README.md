@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nitin Singh 👋</h1>
 
 <p align="center">
-  Full Stack Developer in Progress · Problem Solver · Technical Writer
+  Full Stack Developer· Problem Solver
 </p>
 
 <p align="center">
