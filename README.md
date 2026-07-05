@@ -1,36 +1,8 @@
 <h1 align="center">Hi, I'm Nitin Singh 👋</h1>
 
 <p align="center">
-  Full Stack Developer· Problem Solver
+  Full Stack Developer | react.js | node.js
 </p>
-
-<p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/919999999999">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 📄 About Me
